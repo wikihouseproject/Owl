@@ -3,14 +3,14 @@ A CNC-manufactured internal door kit
 
 ![alt tag](https://github.com/wikihouseproject/Owl/blob/master/Owl_Iso.png)
 
-An internal door which can be CNC-manufactured and assembled as a kit without need for carpentry skills. OWL can be used with a number of different frame finishes, depending on the application. It could also be adapted for different door furniture / ironmongery including locks, windows etc.
+An internal door which can be CNC-manufactured and assembled as a kit without need for carpentry skills. OWL can be used with a number of different frame types, depending on the application. It could also be adapted for different door furniture / ironmongery including locks, glazed panels etc.
 
 
 ![alt tag](https://github.com/wikihouseproject/Owl/blob/master/Owl_Banner.png)
 
-Traditionally internal doors are fitted by installing the frame first. If the opening is not precisely straight or even, any tolerance is usually then absorbed by adjusting and re-hanging the door, which requires time and skill. 
+Traditionally, internal doors are installed by first fitting the frame into the oprning. If the opening is not precisely straight, any tolerance is absorbed by adjusting and re-hanging the door by trial and error, which requires time and skill. 
 
-The concept behind OWL is to assemble a complete frame and door kit which is made to measure. Tolerance is then left between the frame and the opening, which must be taken up using small window packers (suggested plastic packer which can be purchased in bags containing a range of sizes from 1mm-5mm). The frame can then be screwed into the opening, and plywood caps fitted to conceal the fixings. Once completed, no fixings should be visible.
+The concept behind OWL is to custom-manufacture a complete frame and door kit, which can then be assembled. Tolerance is then left between the frame and the opening, which must be taken up using small packers (it is suggested plastic packers are used, these can be purchased in bags containing a range of sizes from 1mm-5mm). The frame can then be secured into the opening, and plywood caps fitted to conceal the fixings. Once completed, no fixings should be visible.
 
 The foot of the frame is also recessed to allow floor finishe edges to be tucked out of sight.
 
