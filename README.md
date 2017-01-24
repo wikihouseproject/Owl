@@ -20,7 +20,7 @@ Frame A - Uses an architrave to cover the gap between the frame and the structur
 
 Frame B - For fitting into an existing fully finished opening (which might be plasterwork, brick or any other material). The small 3-5mm gap around the edge will need to be properly packed and filled using a sealant.
 
-Frame C - Where new internal walls are being made. Plasterboard corner trims are fitted and made good to the opening, which return onto an 18mm packer. The OWL door frame is then fitted onto that packer, leaving a neat shadow-gap around the door.
+Frame C - Where new internal walls are being made. Plasterboard corner trims are fitted and made good to the opening, which return onto an 18mm packer. The OWL door frame is then fitted onto that packer, leaving a neat shadow-gap around the door, which must be filled with sealant.
 
 **Issues and further development**
 
