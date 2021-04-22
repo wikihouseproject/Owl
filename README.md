@@ -2,7 +2,7 @@
 A CNC-manufactured internal door kit
 
 ![alt tag](https://github.com/wikihouseproject/Owl/blob/master/Owl_Iso.png)
-z
+
 An internal door which can be CNC-manufactured and assembled as a kit without need for carpentry skills. OWL can be used with a number of different frame types, depending on the application. It could also be adapted for different door furniture / ironmongery including locks, glazed panels etc.
 
 
