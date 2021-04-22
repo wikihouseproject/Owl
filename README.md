@@ -51,7 +51,7 @@ You are solely responsible for the use of the information
 By using this information you assume full responsibility for any loss resulting from use or inability to use the Wikihouse Info, and forever releases WikiHouse Foundation or other WikiHouse users from any liability for such loss;  including but not limited to loss of profits, goodwill or assets.
 
 You are responsible for meeting local codes and legislation
-Users muzst satisfy themselves regarding the application of statutory requirements, local building regulations, codes, insurance certification or other requirements or recommendations relevant to the location where and materials with which they plan to build. Where required you should always seek the advice of a relevant qualified professional.
+Users must satisfy themselves regarding the application of statutory requirements, local building regulations, codes, insurance certification or other requirements or recommendations relevant to the location where and materials with which they plan to build. Where required you should always seek the advice of a relevant qualified professional.
 
 You are responsible for using the information in a safe way
  Users are responsible for ensuring that information they use or cause to be used is used in a way which is safe, and is not likely to cause harm during or after manufacturing, construction, use or disassembly.
