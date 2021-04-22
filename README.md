@@ -2,13 +2,13 @@
 A CNC-manufactured internal door kit
 
 ![alt tag](https://github.com/wikihouseproject/Owl/blob/master/Owl_Iso.png)
-
+z
 An internal door which can be CNC-manufactured and assembled as a kit without need for carpentry skills. OWL can be used with a number of different frame types, depending on the application. It could also be adapted for different door furniture / ironmongery including locks, glazed panels etc.
 
 
 ![alt tag](https://github.com/wikihouseproject/Owl/blob/master/Owl_Banner.png)
 
-Traditionally, internal doors are installed by first fitting the frame into the oprning. If the opening is not precisely straight, any tolerance is absorbed by adjusting and re-hanging the door by trial and error, which requires time and skill. 
+Traditionally, internal doors are installed by first fitting the frame into the opening. If the opening is not precisely straight, any tolerance is absorbed by adjusting and re-hanging the door by trial and error, which requires time and skill. 
 
 The concept behind OWL is to custom-manufacture a complete frame and door kit, which can then be assembled. Tolerance is then left between the frame and the opening, which must be taken up using small packers (it is suggested plastic packers are used, these can be purchased in bags containing a range of sizes from 1mm-5mm). The frame can then be secured into the opening, and plywood caps fitted to conceal the fixings. Once completed, no fixings should be visible.
 
@@ -51,7 +51,7 @@ You are solely responsible for the use of the information
 By using this information you assume full responsibility for any loss resulting from use or inability to use the Wikihouse Info, and forever releases WikiHouse Foundation or other WikiHouse users from any liability for such loss;  including but not limited to loss of profits, goodwill or assets.
 
 You are responsible for meeting local codes and legislation
-Users must satisfy themselves regarding the application of statutory requirements, local building regulations, codes, insurance certification or other requirements or recommendations relevant to the location where and materials with which they plan to build. Where required you should always seek the advice of a relevant qualified professional.
+Users muzst satisfy themselves regarding the application of statutory requirements, local building regulations, codes, insurance certification or other requirements or recommendations relevant to the location where and materials with which they plan to build. Where required you should always seek the advice of a relevant qualified professional.
 
 You are responsible for using the information in a safe way
  Users are responsible for ensuring that information they use or cause to be used is used in a way which is safe, and is not likely to cause harm during or after manufacturing, construction, use or disassembly.
