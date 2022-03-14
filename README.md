@@ -1,4 +1,4 @@
-#### IMPORTANT: For the latest WikiHouse core system info please see the [Skylark repo](https://github.com/wikihouseproject/Skylark) and [WikiHouse guides](https://www.wikihouse.cc/guides)
+### IMPORTANT: For the latest WikiHouse core system info please see the [Skylark repo](https://github.com/wikihouseproject/Skylark) and [WikiHouse guides](https://www.wikihouse.cc/guides)
 
 # Owl
 A CNC-manufactured internal door kit
